@@ -1,2 +1,2 @@
-# Web--Find-your-duo
- Web front-end of NWL eSports project
+# Frontend--Find-your-duo
+ Front-end of NWL eSports project
