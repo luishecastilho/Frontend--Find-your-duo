@@ -1,3 +1,4 @@
+// DESINTERESSEI PELO MOBILE
 import { View, Image, FlatList } from 'react-native';
 
 import logoImg from '../../assets/logo-nlw-esports.png';
